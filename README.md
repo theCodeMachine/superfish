@@ -15,6 +15,10 @@ Please use the [existing Superfish documentation](http://users.tpg.com.au/j_birc
 
 ### Download [Superfish zip archive](https://github.com/joeldbirch/superfish/archive/master.zip)
 
+## Fork Enhancements
+
+check out examples directory to find mixture of mega & simple superfish menu.
+
 ## Recently added features
 
 - v1.7.3: You can now use Superfish to create mega-menus. CSS file and example page included. Regardless of whether mega-menus are evil, at least now they'll be touch-compatible.
